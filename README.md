@@ -10,9 +10,14 @@ Howdy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/A
 <h4 align="center">Accurate data sharding, random distribution, and encryption service.</h4>
 
 
-<p align="center">
+<div align="center">
   <a href="https://bitchunk.co/" target="_blank"><img src="https://raw.githubusercontent.com/YounesAlturkey/bitchunk/main/frontend/src/assets/img/demo.gif" alt="demo"/></a>
-</p> 
+  </br>
+  </br>
+  
+  [【Monorepo】](https://github.com/younes-alturkey/bitchunk.co)
+  
+</div> 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
