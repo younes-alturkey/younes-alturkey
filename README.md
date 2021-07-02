@@ -20,10 +20,10 @@ Howdy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/A
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 personal 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 [𝙶𝚒𝚝𝙷𝚞𝚋](https://github.com/younes-alturkey)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚘𝚒𝚗𝚐 a .NET Bootcamp 𝚊𝚝 Tuwaiq Academy
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚘𝚒𝚗𝚐 .NET Bootcamp 𝚊𝚝 Tuwaiq Academy
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- 𝙼𝚊𝚔𝚎 Full-stack E-commerce application specially designed for the Saudi market with Payment options integrated
-	- Complete the second sprint of [Bitchunk.co](https://bitchunk.co)
+	- Complete the second iteration of [Bitchunk.co](https://bitchunk.co)
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
 	- Own an authentic katana sword
 	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 to meaningful open source projects
