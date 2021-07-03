@@ -1,13 +1,13 @@
 <h1 align="center">
-Howdy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">. This is my latest work 👇.
+𝙷𝚘𝚠𝚍𝚢 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚖𝚢 𝚕𝚊𝚝𝚎𝚜𝚝 𝚠𝚘𝚛𝚔 👇.
 <br/>
 <br/>
 <a href="https://bitchunk.co/" target="_blank"><img src="https://raw.githubusercontent.com/YounesAlturkey/bitchunk/main/frontend/public/logo.png" alt="Tuwaiq Logo" width="80"/></a>
 
-<a href="https://bitchunk.co/" target="_blank">Bitchunk™: Secure File Sharing and Storage</a>
+<a href="https://bitchunk.co/" target="_blank">𝙱𝚒𝚝𝚌𝚑𝚞𝚗𝚔™: 𝚂𝚎𝚌𝚞𝚛𝚎 𝙵𝚒𝚕𝚎 𝚂𝚑𝚊𝚛𝚒𝚗𝚐 𝚊𝚗𝚍 𝚂𝚝𝚘𝚛𝚊𝚐𝚎</a>
 
 </h1>
-<h4 align="center">Accurate data sharding, random distribution, and encryption service.</h4>
+<h4 align="center">𝙰𝚌𝚌𝚞𝚛𝚊𝚝𝚎 𝚍𝚊𝚝𝚊 𝚜𝚑𝚊𝚛𝚍𝚒𝚗𝚐, 𝚛𝚊𝚗𝚍𝚘𝚖 𝚍𝚒𝚜𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗, 𝚊𝚗𝚍 𝚎𝚗𝚌𝚛𝚢𝚙𝚝𝚒𝚘𝚗 𝚜𝚎𝚛𝚟𝚒𝚌𝚎.</h4>
 
 
 <div align="center">
@@ -20,25 +20,26 @@ Howdy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/A
 </div> 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 🎓 Graduated with 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 In 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 King AbdulAziz 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 2021
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 personal 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 [𝙶𝚒𝚝𝙷𝚞𝚋](https://github.com/younes-alturkey)
-- 📝 M𝚢 updated [Resume](https://younesalturkey.sa/younes-alturkey-resume.pdf)
+- 🖥  𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🎓 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝚠𝚒𝚝𝚑 𝙷𝚘𝚗𝚘𝚛𝚜 𝙸𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚏𝚛𝚘𝚖 𝙺𝚒𝚗𝚐 𝙰𝚋𝚍𝚞𝚕𝙰𝚣𝚒𝚣 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟷
+- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 [𝙶𝚒𝚝𝙷𝚞𝚋](https://github.com/younes-alturkey?tab=repositories)
+- 📝 Younes's 𝚞𝚙𝚍𝚊𝚝𝚎𝚍 [𝚁𝚎𝚜𝚞𝚖𝚎](https://younesalturkey.sa/younes-alturkey-resume.pdf)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚘𝚒𝚗𝚐 .NET Bootcamp 𝚊𝚝 Tuwaiq Academy
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚘𝚒𝚗𝚐 .𝙽𝙴𝚃 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙱𝚘𝚘𝚝𝚌𝚊𝚖𝚙 𝚊𝚝 𝚃𝚞𝚠𝚊𝚒𝚚 𝙰𝚌𝚊𝚍𝚎𝚖𝚢
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-	- 𝙼𝚊𝚔𝚎 Full-stack E-commerce application specially designed for the Saudi market with Payment options integrated
-	- Complete the second iteration of [Bitchunk.co](https://bitchunk.co)
+	- 𝙳𝚎𝚟𝚎𝚕𝚘𝚙 𝙴-𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚎 𝚜𝚝𝚘𝚛𝚎 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚕𝚢 𝚍𝚎𝚜𝚒𝚐𝚗𝚎𝚍 𝚏𝚘𝚛 𝚝𝚑𝚎 🇸🇦 𝚖𝚊𝚛𝚔𝚎𝚝 𝚠𝚒𝚝𝚑 𝚕𝚘𝚌𝚊𝚕 𝚙𝚊𝚢𝚖𝚎𝚗𝚝 𝚘𝚙𝚝𝚒𝚘𝚗𝚜 𝚒𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚎𝚍
+	- 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝚝𝚑𝚎 𝚜𝚎𝚌𝚘𝚗𝚍 𝚒𝚝𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 [𝙱𝚒𝚝𝚌𝚑𝚞𝚗𝚔.𝚌𝚘](https://bitchunk.co)
+	- 𝚂𝚝𝚊𝚛𝚝 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚊𝚙𝚙𝚜 𝚘𝚗 𝚖𝚢 𝚠𝚒𝚜𝚑𝚕𝚒𝚜𝚝
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- Own an authentic katana sword
-	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 to meaningful open source projects
-	- Build an app that can make everyone in 🇸🇦 happy
+	- 𝙾𝚠𝚗 𝚊𝚗 𝚊𝚞𝚝𝚑𝚎𝚗𝚝𝚒𝚌 𝚔𝚊𝚝𝚊𝚗𝚊 🗡️
+	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚖𝚎𝚊𝚗𝚒𝚗𝚐𝚏𝚞𝚕 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+	- 𝙱𝚞𝚒𝚕𝚍 𝚊𝚗 𝚊𝚙𝚙 𝚝𝚑𝚊𝚝 𝚌𝚊𝚗 𝚖𝚊𝚔𝚎 𝚎𝚟𝚎𝚛𝚢𝚘𝚗𝚎 𝚒𝚗 🇸🇦 𝚑𝚊𝚙𝚙𝚢
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 me
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
+[<img src="https://img.icons8.com/nolan/64/email.png" height="40em" align="center" alt="Email Younes" title="Email Younes Alturkey"/>](mailto:hi@younesalturkey.sa)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Younes on LinkedIn" title="Follow Younes on LinkedIn"/>](https://www.linkedin.com/in/younes-alturkey)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Younes on Twitter" title="Follow Younes on Twitter"/>](https://twitter.com/younes_alturkey)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" height="40em" align="center" alt="Follow Younes on Spotify" title="Follow Younes on Spotify"/>](https://open.spotify.com/user/e5n7a9dm50233an41q324sav7)
-[<img src="https://img.icons8.com/nolan/64/email.png" height="40em" align="center" alt="Email Younes" title="Email Younes Alturkey"/>](mailto:hi@younesalturkey.sa)
