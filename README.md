@@ -21,3 +21,4 @@
 
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Younes on LinkedIn" title="Follow Younes on LinkedIn"/>](https://www.linkedin.com/in/younes-alturkey)
+[<img src="https://img.icons8.com/fluent/48/000000/email-open.png" height="40em" align="center" alt="Email Younes" title="Email Younes Alturkey"/>](mailto:hi@younesalturkey.sa)
