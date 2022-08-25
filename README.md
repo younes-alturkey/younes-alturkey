@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <a href="https://bit-chunk.netlify.app" target="_blank"><img src="https://res.cloudinary.com/younes-alturkey/image/upload/v1661439896/nuqtah-demo_n6ggfo.gif" alt="demo"/></a>
+  <a href="https://bit-chunk.netlify.app" target="_blank"><img src="https://github.com/younes-alturkey/younes-alturkey/blob/main/images/nuqtah-demo.gif" alt="demo"/></a>
   </br>
   </br>
   
