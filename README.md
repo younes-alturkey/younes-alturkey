@@ -20,6 +20,6 @@
 </div> 
 
 
-[<img src="https://github.com/younes-alturkey/younes-alturkey/blob/main/images/website.png" height="40em" align="center" alt="Younes Website" title="Visit my website"/>](https://younesalturkey.sa)
+[<img src="https://github.com/younes-alturkey/younes-alturkey/blob/main/images/website.png" height="40em" align="center" alt="Younes Website" title="Visit my website"/>](https://younes.ninja)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow Younes on LinkedIn"/>](https://www.linkedin.com/in/younes-alturkey)
 [<img src="https://img.icons8.com/fluent/48/000000/email-open.png" height="40em" align="center" alt="Email Younes" title="Email me"/>](mailto:hi@younesalturkey.sa)
