@@ -2,9 +2,9 @@
 𝙷𝚘𝚠𝚍𝚢 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚖𝚢 𝚕𝚊𝚝𝚎𝚜𝚝 𝚠𝚘𝚛𝚔 👇.
 <br/>
 <br/>
-<a href="https://bit-chunk.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/younes-alturkey/bitchunk.co/main/frontend/src/assets/img/logo.png" alt="Logo" width="80"/></a>
+<a href="https://itsnuqtah.com" target="_blank"><img src="https://raw.githubusercontent.com/nuqtah/nuqtah-public/main/icon.png" alt="Logo" width="80"/></a>
 
-<a href="https://bit-chunk.netlify.app" target="_blank">Nuqtah: Saudi's First NFT Marketplace</a>
+<a href="https://itsnuqtah.com" target="_blank">Nuqtah: Saudi's First NFT Marketplace</a>
 
 </h1>
 <h4 align="center">Nuqtah grand ambition is to spearhead the adoption of NFTs and enable an open digital economy.</h4>
@@ -15,7 +15,7 @@
   </br>
   </br>
   
-  [【Monorepo】](https://github.com/younes-alturkey/bitchunk)
+  [【View the Platform】](https://itsnuqtah.com)
   
 </div> 
 
