@@ -2,7 +2,7 @@
 𝙷𝚘𝚠𝚍𝚢 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚖𝚢 𝚕𝚊𝚝𝚎𝚜𝚝 𝚠𝚘𝚛𝚔 👇.
 <br/>
 <br/>
-<a href="https://monshaat.bhr.sa" target="_blank"><img src="https://raw.githubusercontent.com/nuqtah/nuqtah-public/main/icon.png" alt="Demo gif" width="80"/></a>
+<a href="https://monshaat.bhr.sa" target="_blank"><img src="https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/main/images/monshaat-logo.png" alt="Logo" width="80"/></a>
 
 <a href="https://monshaat.bhr.sa" target="_blank">Monshaat: Future Entrepreneur LMS</a>
 
