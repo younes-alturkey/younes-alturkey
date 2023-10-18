@@ -10,7 +10,7 @@
 <h4 align="center">Monshaat enables the entrepreneurship landscape of Saudi through Future Entrepreneur LMS.</h4>
 
 <div align="center">
-  <a href="https://bit-chunk.netlify.app" target="_blank"><img src="https://github.com/younes-alturkey/younes-alturkey/blob/main/images/monshaat-lms-demo.gif?raw=true" alt="demo"/></a>
+  <a href="https://monshaat.bhr.sa" target="_blank"><img src="https://github.com/younes-alturkey/younes-alturkey/blob/main/images/monshaat-lms-demo.gif?raw=true" alt="demo"/></a>
   </br>
   </br>
   
