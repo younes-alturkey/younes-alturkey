@@ -7,7 +7,7 @@
 <a href="https://monshaat.bhr.sa" target="_blank">Monshaat: Future Entrepreneur LMS</a>
 
 </h1>
-<h4 align="center">Monshaat enables the entrepreneurship landscape of Saudi through Future Entrepreneur LMS.</h4>
+<h4 align="center">Monshaat grooms the entrepreneurship spirit of Saudi through the Future Entrepreneur LMS.</h4>
 
 <div align="center">
   <a href="https://monshaat.bhr.sa" target="_blank"><img src="https://github.com/younes-alturkey/younes-alturkey/blob/main/images/monshaat-lms-demo.gif?raw=true" alt="demo"/></a>
