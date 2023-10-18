@@ -2,7 +2,7 @@
 𝙷𝚘𝚠𝚍𝚢 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚖𝚢 𝚕𝚊𝚝𝚎𝚜𝚝 𝚠𝚘𝚛𝚔 👇.
 <br/>
 <br/>
-<a href="https://monshaat.bhr.sa" target="_blank"><img src="https://github.com/younes-alturkey/younes-alturkey/blob/main/images/monshaat-lms-demo.gif" alt="Demo gif" width="80"/></a>
+<a href="https://monshaat.bhr.sa" target="_blank"><img src="https://raw.githubusercontent.com/nuqtah/nuqtah-public/main/icon.png" alt="Demo gif" width="80"/></a>
 
 <a href="https://monshaat.bhr.sa" target="_blank">Monshaat: Future Entrepreneur LMS</a>
 
@@ -10,7 +10,7 @@
 <h4 align="center">Monshaat is enabling the entrepreneurship landscape of Saudi through various initiatives and Future Entrepreneur is one of them.</h4>
 
 <div align="center">
-  <a href="https://bit-chunk.netlify.app" target="_blank"><img src="https://github.com/younes-alturkey/younes-alturkey/blob/main/images/nuqtah-quick-demo.gif" alt="demo"/></a>
+  <a href="https://bit-chunk.netlify.app" target="_blank"><img src="https://github.com/younes-alturkey/younes-alturkey/blob/main/images/monshaat-lms-demo.gif?raw=true" alt="demo"/></a>
   </br>
   </br>
   
