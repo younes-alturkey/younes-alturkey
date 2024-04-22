@@ -14,7 +14,7 @@
   </br>
   </br>
   
-  [【View the Platform】](https://monshaat.bhr.sa)
+  [【View the Platform】](https://eci.monshaat.gov.sa)
   
 </div>
 
