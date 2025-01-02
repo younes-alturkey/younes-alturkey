@@ -13,7 +13,7 @@ I'm a seasoned full-stack software engineer with extensive experience in web, mo
 
 ## 🌟 Featured Projects
 
-<img src="https://storage.googleapis.com/yat-public/myfuturex-demo.gif" width="50%"/>
+![demo](https://storage.googleapis.com/yat-public/myfuturex-demo.gif)
 
 **MyFutureX iOS/Android** is a comprehensive app connecting users to the FutureX platform, offering seamless access to secure login via Nafath, account management, progress tracking, and thousands of courses across various topics. Users can save favorite courses, explore top-rated courses, in-demand skills, and job opportunities, download certificates, upload educational documents, and customize their experience with light/dark modes and bilingual support (Arabic and English). With an intuitive design and responsive support, MyFutureX empowers users to take control of their professional growth.
 
