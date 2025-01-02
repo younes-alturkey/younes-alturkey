@@ -47,7 +47,8 @@ I'm a seasoned full-stack software engineer with extensive experience in web, mo
 
 ![demo](https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/demos/monshaat-lms-demo.gif)
 
-**[Monshaat: Future Entrepreneur LMS](https://eci.monshaat.gov.sa/en)** MyFutureX is a comprehensive app connecting users to the FutureX platform, offering seamless access to secure login via Nafath, account management, progress tracking, and thousands of courses across various topics. Users can save favorite courses, explore top-rated courses, in-demand skills, and job opportunities, download certificates, upload educational documents, and customize their experience with light/dark modes and bilingual support (Arabic and English). With an intuitive design and responsive support, MyFutureX empowers users to take control of their professional growth.
+**[Monshaat: Future Entrepreneur LMS](https://eci.monshaat.gov.sa/en)** A national initiative in partnership with the Ministry of Education aims to promote entrepreneurship and innovation among upper elementary, middle, and high school students across the Kingdom. The initiative includes three programs: Foundational Entrepreneurial Skills, Entrepreneurs Market, and Entrepreneurial Challenge, combining awareness and practical application to inspire the next generation of innovators.
+
 
 ## 📈 My GitHub stats
 
