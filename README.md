@@ -13,7 +13,7 @@ I'm a seasoned full-stack software engineer with extensive experience in web, mo
 
 ## 🌟 Featured Projects
 
-<img src="https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/images/myfuturex-app-demo.gif" width="50%"/>
+![MyfutureX Demo](https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/demos/myfuturex-app-demo.gif)
 
 **MyFutureX iOS/Android** is a comprehensive app connecting users to the FutureX platform, offering seamless access to secure login via Nafath, account management, progress tracking, and thousands of courses across various topics. Users can save favorite courses, explore top-rated courses, in-demand skills, and job opportunities, download certificates, upload educational documents, and customize their experience with light/dark modes and bilingual support (Arabic and English). With an intuitive design and responsive support, MyFutureX empowers users to take control of their professional growth.
 
@@ -39,7 +39,7 @@ I'm a seasoned full-stack software engineer with extensive experience in web, mo
 
  <br/>
 
-<img src="https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/images/twk-app-demo.gif" width="50%"/>
+![demo](https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/demos/twk-apps-demo.gif)
 
 **[Tawakkalna: Mini App](https://play.google.com/store/apps/details?id=sa.gov.nic.twkhayat)** is an app integrated with the Tawakkalna's SDK, enabling citizens to report unlicensed e-learning programs. Users can pinpoint the location, provide details, and upload images to support their reports. This system ensures regulatory compliance and enhances the quality of e-learning programs through community-driven monitoring.
 
