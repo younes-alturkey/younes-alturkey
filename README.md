@@ -25,25 +25,25 @@ I'm a seasoned full-stack software engineer with extensive experience in web, mo
  <img width="180" style="margin-left: 8px;" src="https://storage.googleapis.com/yat-public/app-store-banner.png"/>
  </a>
 
-  <br/>
+---
 
 ![demo](https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/demos/futurexsa-demo.gif)
 
 **[FutureX Marketing Website](https://futurex.sa/en)** The National Platform for E-Learning, FutureX, is one of the initiatives of the National Center for E-Learning, aimed at empowering the e-learning sector in the Kingdom of Saudi Arabia by providing services and initiatives that achieve integration within the system through local and global partnerships.
 
- <br/>
+---
 
 ![demo](https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/demos/nms-demo.gif)
 
 **[EXPRO: Nominations Management System](https://nms.younes.expert)** is a platform designed to streamline the nomination process for training courses. Users can sign in via Nafath, apply to open courses, and receive approval or rejection notifications. They can also withdraw applications. Admins manage applications with robust filtering options, view data in high-quality tables, export data effortlessly, and send automated or scheduled reminder emails to applicants.
 
- <br/>
+---
 
 ![demo](https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/demos/twk-apps-demo.gif)
 
 **[Tawakkalna: Mini App](https://play.google.com/store/apps/details?id=sa.gov.nic.twkhayat)** is an app integrated with the Tawakkalna's SDK, enabling citizens to report unlicensed e-learning programs. Users can pinpoint the location, provide details, and upload images to support their reports. This system ensures regulatory compliance and enhances the quality of e-learning programs through community-driven monitoring.
 
- <br/>
+---
 
 ![demo](https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/demos/monshaat-lms-demo.gif)
 
