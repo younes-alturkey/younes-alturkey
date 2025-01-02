@@ -13,7 +13,7 @@ I'm a seasoned full-stack software engineer with extensive experience in web, mo
 
 ## 🌟 Featured Projects
 
-![demo](https://storage.googleapis.com/yat-public/myfuturex-demo.gif)
+![demo](https://storage.googleapis.com/yat-public/myfuturex-app-demo.gif)
 
 **MyFutureX iOS/Android** is a comprehensive app connecting users to the FutureX platform, offering seamless access to secure login via Nafath, account management, progress tracking, and thousands of courses across various topics. Users can save favorite courses, explore top-rated courses, in-demand skills, and job opportunities, download certificates, upload educational documents, and customize their experience with light/dark modes and bilingual support (Arabic and English). With an intuitive design and responsive support, MyFutureX empowers users to take control of their professional growth.
 
@@ -27,7 +27,7 @@ I'm a seasoned full-stack software engineer with extensive experience in web, mo
 
   <br/>
 
-<img src="https://storage.googleapis.com/yat-public/myfuturex-app-demo.gif" width="50%"/>
+![demo](https://storage.googleapis.com/yat-public/futurexsa-demo.gif)
 
 **[FutureX Marketing Website](https://futurex.sa/en)** The National Platform for E-Learning, FutureX, is one of the initiatives of the National Center for E-Learning, aimed at empowering the e-learning sector in the Kingdom of Saudi Arabia by providing services and initiatives that achieve integration within the system through local and global partnerships.
 
