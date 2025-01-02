@@ -1,5 +1,3 @@
-[![header](https://storage.googleapis.com/yat-public/banner.jpg)](https://www.linkedin.com/in/younes-alturkey)
-
 # <img src="https://storage.googleapis.com/yat-public/younes-offical.jpeg" width="48"/> [Younes Alturkey](https://www.linkedin.com/in/younes-alturkey)
 
 <div class="github-introduction">
