@@ -18,7 +18,7 @@ I'm a seasoned full-stack software engineer with extensive experience in web, mo
 **[MyFutureX iOS/Android](https://futurex.sa/en)** is a comprehensive app connecting users to the FutureX platform, offering seamless access to secure login via Nafath, account management, progress tracking, and thousands of courses across various topics. Users can save favorite courses, explore top-rated courses, in-demand skills, and job opportunities, download certificates, upload educational documents, and customize their experience with light/dark modes and bilingual support (Arabic and English). With an intuitive design and responsive support, MyFutureX empowers users to take control of their professional growth.
 
 <a href="https://play.google.com/store/apps/details?id=sa.gov.nelc.myfuturexapp">
-<img width="200" style="margin-top: 8px;"  src="https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/images/google-play-card.png"/>
+<img width="200" style="padding-top: 8px;"  src="https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/images/google-play-card.png"/>
 </a>
 
 <a href="https://play.google.com/store/apps/details?id=sa.gov.nelc.myfuturexapp">
