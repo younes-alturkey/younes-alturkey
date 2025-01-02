@@ -27,7 +27,7 @@ I'm a seasoned full-stack software engineer with extensive experience in web, mo
 
   <br/>
 
-![demo](https://storage.googleapis.com/yat-public/futurexsa-demo.gif)
+![demo](https://storage.googleapis.com/yat-public/myfuturex-app-demo.gif)
 
 **[FutureX Marketing Website](https://futurex.sa/en)** The National Platform for E-Learning, FutureX, is one of the initiatives of the National Center for E-Learning, aimed at empowering the e-learning sector in the Kingdom of Saudi Arabia by providing services and initiatives that achieve integration within the system through local and global partnerships.
 
