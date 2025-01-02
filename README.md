@@ -1,23 +1,59 @@
-<h1 align="center">
-𝙷𝚘𝚠𝚍𝚢! 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚖𝚢 𝚕𝚊𝚝𝚎𝚜𝚝 𝚠𝚘𝚛𝚔 👇.
-<br/>
-<br/>
-<a href="https://eci.monshaat.gov.sa/en" target="_blank"><img src="https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/main/images/monshaat-logo.png" alt="Logo" width="80"/></a>
+[![header](https://storage.googleapis.com/yat-public/banner.jpg)](https://www.linkedin.com/in/younes-alturkey)
 
-<a href="https://eci.monshaat.gov.sa/en" target="_blank">Monshaat: Future Entrepreneur LMS</a>
+# <img src="https://storage.googleapis.com/yat-public/younes-offical.jpeg" width="48"/> [Younes Alturkey](https://www.linkedin.com/in/younes-alturkey)
 
-</h1>
-<h4 align="center">Monshaat grooms the entrepreneurship spirit of Saudi through the Future Entrepreneur LMS.</h4>
+<div class="github-introduction">
 
-<div align="center">
-  <a href="https://eci.monshaat.gov.sa/en" target="_blank"><img src="https://github.com/younes-alturkey/younes-alturkey/blob/main/images/monshaat-lms-demo.gif?raw=true" alt="demo"/></a>
-  </br>
-  </br>
-  
-  [【View the Platform】](https://eci.monshaat.gov.sa/en)
-  
+I'm a seasoned full-stack software engineer with extensive experience in web, mobile, desktop, and API development. I have a proven track record of enhancing productivity and delivering high-impact results in large companies. My leadership has guided teams to create robust, user-friendly solutions. My expertise spans computer science and product development, driving innovation and excellence in every project.
+
 </div>
 
-[<img src="https://github.com/younes-alturkey/younes-alturkey/blob/main/images/website.png" height="40em" align="center" alt="Younes Website" title="Visit my website"/>](https://younes.expert)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow Younes on LinkedIn"/>](https://www.linkedin.com/in/younes-alturkey)
-[<img src="https://img.icons8.com/fluent/48/000000/email-open.png" height="40em" align="center" alt="Email Younes" title="Email me"/>](mailto:hi@younes.expert)
+- 💼 Interested in working together? Reach out to me via <a href="mailto:me@younes.expert">email.</a>
+- 💬 Got a question or just curious about something? Feel free to <a href="https://wa.me/966538654514">ask!</a>
+
+## 🌟 Featured Projects
+
+<img width="50%" src="https://storage.googleapis.com/yat-public/myfuturex-demo.gif"/>
+
+**MyFutureX iOS/Android** is a comprehensive app connecting users to the FutureX platform, offering seamless access to secure login via Nafath, account management, progress tracking, and thousands of courses across various topics. Users can save favorite courses, explore top-rated courses, in-demand skills, and job opportunities, download certificates, upload educational documents, and customize their experience with light/dark modes and bilingual support (Arabic and English). With an intuitive design and responsive support, MyFutureX empowers users to take control of their professional growth.
+
+<a href="https://play.google.com/store/apps/details?id=sa.gov.nelc.myfuturexapp">
+<img width="180" src="https://storage.googleapis.com/yat-public/google-play-banner.png"/>
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=sa.gov.nelc.myfuturexapp">
+ <img width="180" src="https://storage.googleapis.com/yat-public/app-store-banner.png"/>
+ </a>
+
+  <br/>
+
+![demo](https://storage.googleapis.com/yat-public/futurexsa-demo.gif)
+
+**[FutureX Marketing Website](https://futurex.sa/en)** The National Platform for E-Learning, FutureX, is one of the initiatives of the National Center for E-Learning, aimed at empowering the e-learning sector in the Kingdom of Saudi Arabia by providing services and initiatives that achieve integration within the system through local and global partnerships.
+
+ <br/>
+
+![demo](https://storage.googleapis.com/yat-public/nms-demo.gif)
+
+**[EXPRO: Nominations Management System](https://nms.younes.expert)** is a platform designed to streamline the nomination process for training courses. Users can sign in via Nafath, apply to open courses, and receive approval or rejection notifications. They can also withdraw applications. Admins manage applications with robust filtering options, view data in high-quality tables, export data effortlessly, and send automated or scheduled reminder emails to applicants.
+
+ <br/>
+
+<img width="50%" src="https://storage.googleapis.com/yat-public/twk-app-demo.gif"/>
+
+**[Tawakkalna: Mini App](https://play.google.com/store/apps/details?id=sa.gov.nic.twkhayat)** is an app integrated with the Tawakkalna's SDK, enabling citizens to report unlicensed e-learning programs. Users can pinpoint the location, provide details, and upload images to support their reports. This system ensures regulatory compliance and enhances the quality of e-learning programs through community-driven monitoring.
+
+ <br/>
+
+![demo](https://storage.googleapis.com/yat-public/monshaat-lms-demo.gif)
+
+**[Monshaat: Future Entrepreneur LMS](https://eci.monshaat.gov.sa/en)** MyFutureX is a comprehensive app connecting users to the FutureX platform, offering seamless access to secure login via Nafath, account management, progress tracking, and thousands of courses across various topics. Users can save favorite courses, explore top-rated courses, in-demand skills, and job opportunities, download certificates, upload educational documents, and customize their experience with light/dark modes and bilingual support (Arabic and English). With an intuitive design and responsive support, MyFutureX empowers users to take control of their professional growth.
+
+## 📈 My GitHub stats
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=younes-alturkey&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="younes-alturkey's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=younes-alturkey&theme=tokyonight&hide_border=true" alt="younes-alturkey's Streak" height="165">
+  </p>
+</div>
