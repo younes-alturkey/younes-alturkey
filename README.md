@@ -41,7 +41,7 @@ I'm a seasoned full-stack software engineer with extensive experience in web, mo
 
 ![demo](https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/demos/twk-apps-demo.gif)
 
-**[Tawakkalna: Mini App](https://play.google.com/store/apps/details?id=sa.gov.nic.twkhayat)** is an app integrated with the Tawakkalna's SDK, enabling citizens to report unlicensed e-learning programs. Users can pinpoint the location, provide details, and upload images to support their reports. This system ensures regulatory compliance and enhances the quality of e-learning programs through community-driven monitoring.
+**[Tawakkalna: Mini App](https://play.google.com/store/apps/details?id=sa.gov.nic.twkhayat)** is an app integrated with the Tawakkalna's SDK, available to 30 million users on the Tawakkalna super app, and enabling citizens to report unlicensed e-learning programs. Users can pinpoint the location, provide details, and upload images to support their reports. This system ensures regulatory compliance and enhances the quality of e-learning programs through community-driven monitoring.
 
 ---
 
