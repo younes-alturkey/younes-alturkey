@@ -21,7 +21,7 @@ I'm a seasoned full-stack software engineer with extensive experience in web, mo
 <img width="180" src="https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/images/google-play-card.png"/>
 </a>
 
-<a href="https://play.google.com/store/apps/details?id=sa.gov.nelc.myfuturexapp">
+<a href="https://apps.apple.com/sa/app/myfuturex/id6504752537">
  <img width="180"src="https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/images/app-store-link-card.png"/>
  </a>
 
