@@ -1,6 +1,6 @@
 [![header](https://raw.githubusercontent.com/younes-alturkey/younes-alturkey/refs/heads/main/images/header.jpg)](https://www.linkedin.com/in/younes-alturkey)
 
-# <img src="https://storage.googleapis.com/yat-public/younes-offical.jpeg" width="48"/> [Younes Alturkey يونس التركي](https://www.linkedin.com/in/younes-alturkey)
+# <img src="https://www.younes.expert/images/younes-headshot.jpeg" width="48"/> [Younes Alturkey يونس التركي](https://www.linkedin.com/in/younes-alturkey)
 
 <div class="github-introduction">
 
